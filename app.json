@@ -73,5 +73,7 @@
   "legacyEditor": false,
   "livePreview": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

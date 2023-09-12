@@ -7,8 +7,9 @@ Version-controlled config files for my [Obsidian](https://obsidian.md/) vaults.
 - Clone this repository locally
 - Symlink the local clone's contents to identically named files within an `.obsidian` dir in the new Obsidian
   vault using the `symlink.sh` script. E.g.,
-- Restart the Obsidian macOS app (if it was open)
 
-```shell
-./symlink.sh "/Users/blairnangle/personal/.obsidian/" "/Users/blairnangle/personal/brain/content/.obsidian/"
-```
+  ```shell
+  ./symlink.sh "/Users/blairnangle/personal/.obsidian/" "/Users/blairnangle/personal/brain/content/.obsidian/"
+  ```
+
+- Restart the Obsidian macOS app (if it was open)
